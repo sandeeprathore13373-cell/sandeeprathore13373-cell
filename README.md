@@ -13,49 +13,6 @@ Welcome,
 Manven
 . We hope you brought pizza. — 1/29/26, 3:28 PM
 
-Wave to say hi!
-Yay you made it, 
-THUNDER
-! — 1/29/26, 3:28 PM
-
-
- is here. — 1/29/26, 3:30 PM
-Wave to say hi!
-Sandeep Rathore
-Arthur
- just slid into the server. — 1/29/26, 3:31 PM
-
-
-
-Wave to say hi!
-THUNDER — Yesterday at 11:05 AM
-https://www.skillfy.in/course/course-details/NzM1
-Sandeep Rathore — Yesterday at 11:22 AM
-These are the courses which is mandetory to complete before start the session-:
-https://www.skillfy.in/course/course-details/Njkx
-https://www.skillfy.in/course/course-details/NjE4
-https://www.skillfy.in/course/course-details/NzM1
-https://www.skillfy.in/course/course-details/NDcx
-THUNDER — Yesterday at 11:37 AM
-https://www.skillfy.in/course/course-details/MzAx
-Jagmohan Rai — Yesterday at 11:54 AM
-https://drive.google.com/drive/folders/1L2pK79LBNuaDdS1zFlc6uubZRtuEy4eu?usp=sharing
-Google Drive
-Jagmohan Rai — Yesterday at 2:10 PM
-Tech Engineer Resume Template
-Rujhan Arora's Resume
-Entry-level Resume Template
-Resume Template for Software Engineer
-FAANGPath Simple Template
-data science 
-jake resume
-Jagmohan Rai — Yesterday at 3:23 PM
-<!-- 🌟 Animated Gradient Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Jagmohan%20Rai%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
-</p>
-
-<!-- ✨ Animated Typing Tagline -->
 
 message.txt
 10 KB
