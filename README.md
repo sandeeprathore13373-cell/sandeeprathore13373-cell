@@ -4,7 +4,7 @@ Online
 
 
 
-lcome 
+welcome 
 Captain Levi
 . Say hi! — 1/29/26, 3:28 PM
 
